@@ -57,9 +57,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TeamYukki")
-                await self.one.join_chat("TheYukki")
-                await self.one.join_chat("YukkiSupport")
+                await self.one.join_chat("shizuka_support")
+                await self.one.join_chat("shizuka_updates")
+                await self.one.join_chat("aboutpratheek")
+                await self.one.join_chat("LYNX_X_UPDATES")
+                await self.one.join_chat("LYNX_X_SUPPORT")
             except:
                 pass
             assistants.append(1)
@@ -88,9 +90,11 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("TeamYukki")
-                await self.two.join_chat("TheYukki")
-                await self.two.join_chat("YukkiSupport")
+                await self.two.join_chat("shizuka_support")
+                await self.two.join_chat("shizuka_updates")
+                await self.two.join_chat("aboutpratheek")
+                await self.two.join_chat("LYNX_X_UPDATES")
+                await self.two.join_chat("LYNX_X_SUPPORT")
             except:
                 pass
             assistants.append(2)
@@ -119,9 +123,11 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("TeamYukki")
-                await self.three.join_chat("TheYukki")
-                await self.three.join_chat("YukkiSupport")
+                await self.three.join_chat("shizuka_support")
+                await self.three.join_chat("shizuka_updates")
+                await self.three.join_chat("aboutpratheek")
+                await self.three.join_chat("LYNX_X_UPDATES")
+                await self.three.join_chat("LYNX_X_SUPPORT")
             except:
                 pass
             assistants.append(3)
@@ -150,9 +156,11 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("TeamYukki")
-                await self.four.join_chat("TheYukki")
-                await self.four.join_chat("YukkiSupport")
+                await self.four.join_chat("shizuka_support")
+                await self.four.join_chat("shizuka_updates")
+                await self.four.join_chat("aboutpratheek")
+                await self.four.join_chat("LYNX_X_UPDATES")
+                await self.four.join_chat("LYNX_X_SUPPORT")
             except:
                 pass
             assistants.append(4)
@@ -181,9 +189,11 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("TeamYukki")
-                await self.five.join_chat("TheYukki")
-                await self.five.join_chat("YukkiSupport")
+                await self.five.join_chat("shizuka_support")
+                await self.five.join_chat("shizuka_updates")
+                await self.five.join_chat("aboutpratheek")
+                await self.five.join_chat("LYNX_X_UPDATES")
+                await self.five.join_chat("LYNX_X_SUPPORT")
             except:
                 pass
             assistants.append(5)
