@@ -73,9 +73,9 @@
         "value": "True",
         "required": true
       },
-      "AUTO_LEAVING_ASSISTANT": {
+      "AUTO_LEAVING_ASSISTANT_TIME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "True",
+        "value": "120",
         "required": true
       },
       "AUTO_SUGGESTION_MODE": {
