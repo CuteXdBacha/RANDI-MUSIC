@@ -128,6 +128,11 @@
         "value": "https://t.me/Lynx_X_Updates",
         "required": true
       },
+      "DURATION_LIMIT_MIN": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "60",
+        "required": true
+      },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
         "value": "https://github.com/ES3GOD/YukkiMusicBots",
