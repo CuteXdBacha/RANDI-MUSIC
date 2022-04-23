@@ -68,9 +68,69 @@
         "value": "",
         "required": true
       },
+      "AUTO_DOWNLOADS_CLEAR": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "True",
+        "required": true
+      },
+      "AUTO_LEAVING_ASSISTANT": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "True",
+        "required": true
+      },
+      "AUTO_SUGGESTION_MODE": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "True",
+        "required": true
+      },
+      "CLEANMODE_DELETE_MINS": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "10",
+        "required": true
+      },
+      "PLAYLIST_FETCH_LIMIT": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "25",
+        "required": true
+      },
+      "SERVER_PLAYLIST_LIMIT": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "30",
+        "required": true
+      },
+      "SONG_DOWNLOAD_DURATION": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "180",
+        "required": true
+      },
+      "SPOTIFY_CLIENT_ID": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "",
+        "required": true
+      },
+      "SPOTIFY_CLIENT_SECRET": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "",
+        "required": true
+      },
+      "START_IMG_URL": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "https://telegra.ph//file/6442a00e6bc37a57fe3f1.jpg",
+        "required": true
+      },
+      "SUPPORT_GROUP": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "https://t.me/Lynx_X_Support",
+        "required": true
+      },
+      "SUPPORT_CHANNEL": {
+        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "value": "https://t.me/Lynx_X_Updates",
+        "required": true
+      },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/ES3GOD/YukkiMusicBots",
         "required": true
       },
       "UPSTREAM_BRANCH": {
