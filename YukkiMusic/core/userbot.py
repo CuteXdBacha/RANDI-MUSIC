@@ -60,8 +60,8 @@ class Userbot(Client):
                 await self.one.join_chat("shizuka_support")
                 await self.one.join_chat("shizuka_updates")
                 await self.one.join_chat("aboutpratheek")
-                await self.one.join_chat("LYNX_X_UPDATES")
-                await self.one.join_chat("LYNX_X_SUPPORT")
+                await self.one.join_chat("LYNX_UPDATES")
+                await self.one.join_chat("LYNX_SUPPORT")
             except:
                 pass
             assistants.append(1)
